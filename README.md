@@ -28,7 +28,8 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 <p align="center">
 Launch the utility: <br/>
 <img src="https://image2url.com/r2/default/images/1771948988086-cde7d458-345d-4874-8e9c-26a8575287a9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br />![image alt](https://github.com/elhanan7williams/HoneyPot-SOC-LAB/blob/main/Screenshot%202026-02-12%20155311.png?raw=true)
+
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
