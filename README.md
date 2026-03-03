@@ -27,7 +27,7 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 
 <p align="center">
 Launch the utility: <br/>
-<img src=IMAGES/Screenshot 2026-02-12 155311.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="IMAGES/Screenshot 2026-02-12 155311.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 ![image alt](https://github.com/elhanan7williams/HoneyPot-SOC-LAB/blob/main/Screenshot%202026-02-12%20155311.png?raw=true)
 
 <br />
