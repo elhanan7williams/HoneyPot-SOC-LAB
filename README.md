@@ -51,7 +51,7 @@ Create Log Analytics Workspace:  <br/>
 <img src="IMAGES/Screenshot 2026-02-13 045514.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Azure Monitor Agent and Configure Data Collection Rules:  <br/>
+Install Azure Monitor Agent and Configure Data Collection Rules In Microsoft Sentinel:  <br/>
 <img src="IMAGES/Screenshot 2026-02-13 050336.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -63,7 +63,7 @@ Upload GeoIP On Watchlist:  <br/>
 <img src="IMAGES/Screenshot 2026-02-13 103154.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Map Attacks To GeoIP:  <br/>
+Visualizing Attack Maps Globally:  <br/>
 <img src="IMAGES/Screenshot 2026-02-13 105023.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
